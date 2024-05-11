@@ -26,4 +26,8 @@ Hard
 - Добавьте возможность сортировки стран по различным параметрам (например, по населению)
 
 
+## Инструкция по запуску/развёртыванию приложения
+1. git clone https://github.com/MyLittleProg/view-to-countries
+2. npm i 
+
 Test for SGMK
